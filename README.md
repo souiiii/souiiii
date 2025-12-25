@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **souiiii/souiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm 👋 [Shahid](https://meshahid.me), a full stack web-developer and web designer based in India.
+
+I design and develop modern, performance oriented websites from the ground up ⚡.
+
+I am especially focussed on User Experience and overall snappiness of my products.
+
+My tech stack includes:
+-> Frontend Libararies/Frameworks: React.js and Next.js ⚛️
+-> Backend: Node.js with Express.js 🧩
+-> Design: Figma, Framer, Illustrator, After Effects 🎨
+
+I've developed various real world projects for real clients, but I like [Unique Hosting](https://uniquehosting.space) the most 🚀.
+
+Beyond Code
+-> I produce hip-hop and soul beats in my free time 🎧
+-> I have a strong interest in physics and science-driven concepts 🔬
+
