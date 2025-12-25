@@ -31,6 +31,6 @@ I've developed various real world projects for real clients, but I like [Unique 
 ### Beyond Code
 
 - I produce hip-hop and soul beats in my free time 🎧
-- I have a strong interest in physics and science-driven concepts 🔬
+- Strong interest in astrophysics and related research 🔬
 
 
