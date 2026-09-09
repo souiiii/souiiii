@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm [Shahid]([https://meshahid.me](https://portfolio-e7cac.web.app/))  👋, a full stack web-developer and web designer based in India.
+I'm [Shahid](https://portfolio-e7cac.web.app/)  👋, a full stack web-developer and web designer based in India.
 
 I design and develop modern, performance oriented websites from the ground up ⚡.
 
